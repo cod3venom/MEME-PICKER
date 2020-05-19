@@ -12,7 +12,7 @@ taking meme image, video, and gif files from the web sites like</p>
 	- [2] Then starts the file extraction process with XPATH 
 	- [3] After extraction , we download files from the url
 	- [4] At the same time it splits the url on the last dot '.'  which is the separator for the extension, to get file real name.
-	- [5] UPLOAD file address to the mysql database, which gives posibility in the future to use those image, video, and gif files  on the web site
+	- [5] And finally it uploads file address to the mysql database, which gives posibility in the future to use those image, video, and gif files  on the web site
 
 <h2> LINUX </h2>
  - in the browser.py uncomment line 35 and set the comment on the 32 line
