@@ -1,8 +1,8 @@
 <h1>MEME PICKER</h1>
 <p> MEME PICKER is an software developed on Python, and it is used for 
 taking memes images, videos, gif files from the web sites like</p>
-- 9gag.com
-- memedroid.com
+	- [1] 9gag.com
+	- [2] memedroid.com
 <img src='meme-picker.gif' width='600' height='400'>
 	
 # HOW IT WORKS
