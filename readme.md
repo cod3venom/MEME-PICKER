@@ -1,6 +1,6 @@
-# <h1>MEME PICKER</h1>
-	<p> MEME PICKER is an software developed on Python, and it is used for</p>
-	<p> Taking memes images, videos, gif files from the web sites like</p>
+<h1>MEME PICKER</h1>
+<p> MEME PICKER is an software developed on Python, and it is used for</p>
+<p> Taking memes images, videos, gif files from the web sites like</p>
 	- 9gag.com
 	- memedroid.com
 <img src='meme-picker.gif' width='600' height='400'>
@@ -13,10 +13,10 @@
 	- [5] UPLOAD file address to the mysql database, which gives posibility in the future to use those image, video, and gif files  on the web site
 # CROSS PLATFORM
  <h2> LINUX </h2>
-  <p> in ```browser.py``` uncomment line 35 and set the comment on the 32 line </p>
+	<p> in the browser.py uncomment line 35 and set the comment on the 32 line </p>
  
 <h2> Windows <h2>
-  <p> in the ```browser.py``` add comment on the 35 line and uncomment 32 line </p>
+	<p> in the  browser.py  add comment on the 35 line and uncomment 32 line </p>
 
 # REQUIREMENTS
  - Python3  
